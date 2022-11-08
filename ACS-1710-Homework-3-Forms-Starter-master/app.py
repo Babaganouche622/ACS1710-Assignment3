@@ -211,7 +211,7 @@ def gif_search():
             {
                 # TODO: Add in key-value pairs for:
                 'q': search,
-                'key': 'AIzaSyBa9t6fNiL8TIoZHl394836Q75ncIpWMqc',
+                'key': 'ENTER YOUR KEY HERE',
                 'limit': number_gif
             })
 
